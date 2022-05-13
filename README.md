@@ -1,2 +1,2 @@
-# Pok-dex
+# Pokédex
 Pokédex Project Using JS with Public APIs
