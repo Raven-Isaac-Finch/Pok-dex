@@ -29,7 +29,7 @@ const initPokemon = async () => {
 };
 
 const getPokemon = async (id) => {
-    let url = `http://pokeapi.co/api/v2/pokemon/${id}`;
+    let url = `https://pokeapi.co/api/v2/pokemon/${id}`;
     let res = await fetch(url);
     let data = await res.json();
     createPokemonBox(data);
