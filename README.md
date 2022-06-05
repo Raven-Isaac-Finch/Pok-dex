@@ -3,4 +3,4 @@ Pokédex Project Using JS with Public APIs
 
 Webpage: https://raven-isaac-finch.github.io/Pokedex/
 
-![](https://github.com/Raven-Isaac-Finch/Pokedex/blob/main/03%20-%20pokedex_app.gif)
+![](https://user-images.githubusercontent.com/99633768/172045689-71ef120f-119a-4465-93ff-368bc98f00fe.gif)
